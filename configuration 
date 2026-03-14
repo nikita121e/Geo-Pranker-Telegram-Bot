@@ -1,0 +1,6 @@
+open main.py and fill in your details:
+​BOT_TOKEN: Get from @BotFather.
+
+​LOG_CHANNEL_ID: Your channel ID (starts with -100).
+
+​BASE_URL: Your active Cloudflare link (e.g., https://www.google.com/search?q=https://xyz.trycloudflare.com).
