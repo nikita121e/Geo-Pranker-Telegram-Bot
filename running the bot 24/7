@@ -1,0 +1,8 @@
+1. start Tunnel:
+
+cloudflared tunnel --url [http://127.0.0.1:8080](http://127.0.0.1:8080)
+
+2. Wake Lock: Click "Acquire wakelock" in Termux notification to prevent sleep.
+
+3.Start Bot: Use tmux to keep it running in background:
+python main.py
